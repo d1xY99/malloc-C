@@ -4,7 +4,7 @@
 A custom memory management implementation in C++ using manual heap manipulation and tracking.
 
 ## Key Features
-- Custom `malloc()` replacement
+- Custom `malloc()` replacement.
 - Dynamic memory allocation tracking
 - Block splitting and merging
 - Buffer overrun protection
